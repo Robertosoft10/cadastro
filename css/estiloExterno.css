@@ -1,0 +1,39 @@
+#inputLogin{
+	height: 30px;
+}
+#btnLogin{
+	height:40px;
+	width: 30%;
+	font-size: 13pt;
+}
+h4{
+	text-align: center;
+}
+#loginGeral{
+ margin-left:3%;
+}
+#btnLoginMarge{
+	text-align: right;
+}
+#inputCadastro{
+	height: 28px;
+}
+#btnSalvarAluno{
+	text-align: right;
+}
+#btnSalvarAlunoCor{
+	width:20%;
+	height:40px;
+	font-size:13pt;
+}
+p{
+	color: black;
+	font-size:10pt;
+	
+}
+#links{
+	font-size: 11pt;
+}
+#linkLargura{
+	width:10%;
+}
